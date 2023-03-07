@@ -1,1 +1,1 @@
-# EFI-OC-Lenovo-Ideapad-320-15IKB
+# EFI OC Lenovo Ideapad 320-15IKB
